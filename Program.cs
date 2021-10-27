@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 using System.Windows.Forms;
 
-namespace cs_console_framework_open_file_dialog
+namespace cs_console_open_file_dialog
 {
     class Program
     {
