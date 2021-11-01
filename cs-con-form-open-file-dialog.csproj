@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
-    <RootNamespace>cs_console_open_file_dialog</RootNamespace>
+    <RootNamespace>cs_con_form_open_file_dialog</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
     <DisableWinExeOutputInference>true</DisableWinExeOutputInference>
   </PropertyGroup>
