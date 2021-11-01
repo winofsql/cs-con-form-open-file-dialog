@@ -1,4 +1,4 @@
-# cs-con-open-file-dialog
+# cs-con-form-open-file-dialog
 コンソールで System.Windows.Forms を利用
 
 ## 参考
