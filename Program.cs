@@ -26,7 +26,7 @@ namespace cs_console_open_file_dialog
                 string text;
 
                 // 内容を一気に読み込む
-                Debug.Write( text = sr.ReadToEnd() ); 
+                Console.Write( text = sr.ReadToEnd() ); 
 
                 sr.Close();
 
