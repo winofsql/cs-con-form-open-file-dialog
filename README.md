@@ -31,7 +31,5 @@
 ## System.Windows.Forms 利用
 ```
 <TargetFramework>net5.0-windows</TargetFramework>
-```
-```
 <UseWindowsForms>true</UseWindowsForms>
 ```
