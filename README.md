@@ -38,6 +38,6 @@
 
 ## エントリポイント
 ```cs
-        [STAThread]
-        static void Main(string[] args)
+[STAThread]
+static void Main(string[] args)
 ```
