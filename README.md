@@ -21,6 +21,10 @@
 
 </Project>
 ```
+```
+<OutputType>Exe</OutputType>
+<DisableWinExeOutputInference>true</DisableWinExeOutputInference>
+```
 
 ```
 <TargetFramework>net5.0-windows</TargetFramework>
