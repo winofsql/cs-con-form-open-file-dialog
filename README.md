@@ -33,6 +33,8 @@
 <TargetFramework>net5.0-windows</TargetFramework>
 <UseWindowsForms>true</UseWindowsForms>
 ```
+
+## エントリポイント
 ```cs
         [STAThread]
         static void Main(string[] args)
