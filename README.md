@@ -21,11 +21,14 @@
 
 </Project>
 ```
+
+## コンソール出力
 ```
 <OutputType>Exe</OutputType>
 <DisableWinExeOutputInference>true</DisableWinExeOutputInference>
 ```
 
+## System.Windows.Forms 利用
 ```
 <TargetFramework>net5.0-windows</TargetFramework>
 ```
